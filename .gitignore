@@ -3,6 +3,19 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Folders/files to ignore
+data/
+dc_test/
+gsi_env/
+gsiSiteSuitability/
+numerical distributions.ipynb
+percent_impervious.ipynb
+pop_projections.ipynb
+weighted_overlay_modeling.ipynb
+weighted_overlay_TEST.ipynb
+
+
+
 # C extensions
 *.so
 
